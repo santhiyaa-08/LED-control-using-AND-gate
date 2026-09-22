@@ -29,12 +29,14 @@ To design and demonstrate an LED control circuit using push buttons and a 9V bat
 **Simulation**
 
 **![][image1]**
+![Simulation](simulation 4.pdf)
 
 The circuit was first designed and tested using a simulation. The simulation showed that the LED glows when the push button is pressed.
 
 **Practical Implementation**
 
 **![][image2]**
+![Result](result 4.pdf)
 
 The same circuit was assembled on a perfboard using the required components. The practical circuit was tested with a 9V battery.
 
